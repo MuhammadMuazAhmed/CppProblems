@@ -1,11 +1,11 @@
-# 🚀 LeetCode Solutions
+# 🚀 Problem-Solving Repository
 
-This repository contains my solutions to popular **LeetCode problems**.  
+This repository contains my solutions to various **LeetCode problems** along with a few **custom practice problems**.  
 Each solution is implemented with a focus on clarity and efficiency.
 
 ---
 
-## 📂 Problems Solved
+## 📂 LeetCode Problems
 
 1. [Two Sum](./TwoSum.cpp)  
 2. [Palindrome Number](./PalindromeNumber.cpp)  
@@ -17,18 +17,25 @@ Each solution is implemented with a focus on clarity and efficiency.
 
 ---
 
+## 📝 Custom Problems
+
+- [Bomb](./Bomb.cpp)  
+
+---
+
 ## 💡 Purpose
 - Strengthen **problem-solving** skills  
-- Gain mastery in **Data Structures & Algorithms**  
+- Practice **Data Structures & Algorithms**  
 - Prepare for **technical interviews**  
 
 ---
 
 ## 🛠 Tech Used
 - Language: **C++**  
-- Platform: **LeetCode**  
+- Platform: **LeetCode** + custom practice  
 
 ---
 
 ## 📌 Note
-I will keep adding more problems regularly. Contributions and suggestions are welcome!
+I will keep adding more problems regularly.  
+Contributions and suggestions are always welcome!

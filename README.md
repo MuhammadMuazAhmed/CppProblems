@@ -7,19 +7,19 @@ Each solution is implemented with a focus on clarity and efficiency.
 
 ## 📂 LeetCode Problems
 
-1. [Two Sum](./TwoSum.cpp)  
-2. [Palindrome Number](./PalindromeNumber.cpp)  
-3. [Roman to Integer](./RomanToInteger.cpp)  
-4. [Longest Common Prefix](./LongestCommonPrefix.cpp)  
-5. [Remove Duplicates from Sorted Array](./RemoveDuplicates.cpp)  
-6. [Merge Sorted Array](./MergeSortedArray.cpp)  
-7. [Reverse Integer](./ReverseInteger.cpp)  
+1. Two Sum  
+2. Palindrome Number  
+3. Roman to Integer  
+4. Longest Common Prefix  
+5. Remove Duplicates from Sorted Array  
+6. Merge Sorted Array  
+7. Reverse Integer  
 
 ---
 
 ## 📝 Custom Problems
 
-- [Bomb](./Bomb.cpp)  
+- Bomb  
 
 ---
 
